@@ -85,26 +85,26 @@ This assignment should prove that a student is able to:
 
 **For each page:**
 
-- [xxx ] Connect the scripts.js file
-- [xxx ] Connect the layout.css file
-- [xxx ] Connect the image-detail.css file
-- [xxx ] Add the path to the image to let it show up
+- [xxxx ] Connect the scripts.js file
+- [xxxx ] Connect the layout.css file
+- [xxxx ] Connect the image-detail.css file
+- [xxxx ] Add the path to the image to let it show up
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [xxx ] Add the detail page path for each top navigation item:
+- [xxxx ] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
   - Space: space.html
-- [xxx ] Add the path to the index.html file for the "Back to Home Page" link
-- [xxx ] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
+- [xxxx ] Add the path to the index.html file for the "Back to Home Page" link
+- [xxxx ] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
   - [More Plants Images](https://unsplash.com/s/photos/plants)
   - [More Nature Images](https://unsplash.com/s/photos/nature)
   - [More Space Images](https://unsplash.com/s/photos/space)
   - [More ModernDesign Images](https://unsplash.com/s/photos/modern-design)
-- [xxx ] Add the detail page path for each bottom navigation item:
+- [xxxx ] Add the detail page path for each bottom navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
